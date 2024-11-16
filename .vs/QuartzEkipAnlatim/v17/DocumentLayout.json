@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\jobs\\configurequartz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\jobs\\configurequartz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\jobs\\firstjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\jobs\\firstjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\jobs\\fourjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\jobs\\fourjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\jobs\\secondjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\jobs\\secondjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\jobs\\thirdjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\jobs\\thirdjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\listeners\\joblistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\listeners\\joblistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\listeners\\schedulelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\listeners\\schedulelistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\listeners\\triggerlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\listeners\\triggerlistener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|c:\\users\\onur furkan meral\\source\\repos\\quartzekipanlatim\\quartzekipanlatim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F56AAE7-3DB8-4757-AD10-313837719D74}|QuartzEkipAnlatim\\QuartzEkipAnlatim.csproj|solutionrelative:quartzekipanlatim\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Program.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Program.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Program.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:11:19.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Startup.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Startup.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Startup.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Startup.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:11:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:48.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThirdJob.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\ThirdJob.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Jobs\\ThirdJob.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\ThirdJob.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Jobs\\ThirdJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:38.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecondJob.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\SecondJob.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Jobs\\SecondJob.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\SecondJob.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Jobs\\SecondJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fourjob.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\fourjob.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Jobs\\fourjob.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\fourjob.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Jobs\\fourjob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirstJob.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\FirstJob.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Jobs\\FirstJob.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\FirstJob.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Jobs\\FirstJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:32.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfigureQuartz.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\ConfigureQuartz.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Jobs\\ConfigureQuartz.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Jobs\\ConfigureQuartz.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Jobs\\ConfigureQuartz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:26.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TriggerListener.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\TriggerListener.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Listeners\\TriggerListener.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\TriggerListener.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Listeners\\TriggerListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:20.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ScheduleListener.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\ScheduleListener.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Listeners\\ScheduleListener.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\ScheduleListener.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Listeners\\ScheduleListener.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:14.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobListener.cs",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\JobListener.cs",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\Listeners\\JobListener.cs",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\Listeners\\JobListener.cs",
+              "RelativeToolTip": "QuartzEkipAnlatim\\Listeners\\JobListener.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T21:09:11.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\appsettings.json",
+              "RelativeDocumentMoniker": "QuartzEkipAnlatim\\appsettings.json",
+              "ToolTip": "C:\\Users\\Onur Furkan Meral\\source\\repos\\QuartzEkipAnlatim\\QuartzEkipAnlatim\\appsettings.json",
+              "RelativeToolTip": "QuartzEkipAnlatim\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T21:09:02.373Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
